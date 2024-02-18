@@ -1,6 +1,7 @@
 # Codewars Collaborative Challenges
 Collaborators List:
 * [Juan Manuel González Kapnik](https://github.com/just-juanma)
+* [Juan José Gilabert](https://github.com/Gilabert99)
 
 Exercises are taken from [Codewars](https://www.codewars.com/)
 
