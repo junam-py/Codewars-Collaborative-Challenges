@@ -1,0 +1,37 @@
+Admited tags:
+* Algebra
+* Algorithms
+* Binary Search Trees / Binary Trees
+* Combinatorics
+* Data Frames
+* Data Science
+* Data Structures
+* Databases
+* Date Time
+* Discrete Mathematics
+* Dynamic Programming
+* Genetic Algorithms
+* Geometry
+* Graph Theory
+* Graphics / Graphs
+* Image Processing
+* Linear Algebra
+* Linked Lists
+* Lists
+* Logic
+* Machine Learning
+* Mathematics
+* Matrix
+* MongoDB
+* NumPy
+* Number Theory
+* Physics
+* Probability
+* Recursion
+* Regular Expressions
+* SQL
+* Sorting
+* Statistics
+* Trees
+
+If you have a tag to suggest, let me know.
