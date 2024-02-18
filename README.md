@@ -2,6 +2,7 @@
 Collaborators List:
 * [Juan Manuel González Kapnik](https://github.com/just-juanma)
 * [Juan José Gilabert](https://github.com/Gilabert99)
+* [Lucas Gomez](https://github.com/LucasGomezOliva)
 
 Exercises are taken from [Codewars](https://www.codewars.com/)
 
