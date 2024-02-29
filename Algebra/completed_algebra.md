@@ -12,4 +12,5 @@
 9. [Means Means](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Means%20Means.ipynb) - just-juanma - 2024/02/25
 10. [Calculate Julie's Age](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Calculate%20Julie's%20Age.ipynb) - just-juanma - 2024/02/26
 11. [Slope of a Line](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Slope%20of%20a%20Line.ipynb) - just-juanma - 2024/02/27
-12. Multiples By Permutations II - just-juanma - 2024/02/28
+12. [Multiples By Permutations II](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Multiples%20By%20Permutations%20II.ipynb) - just-juanma - 2024/02/28
+13. Differential Averaging - just-juanma - 2024/02/29
