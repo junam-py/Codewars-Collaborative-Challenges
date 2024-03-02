@@ -14,4 +14,5 @@
 11. [Slope of a Line](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Slope%20of%20a%20Line.ipynb) - just-juanma - 2024/02/27
 12. [Multiples By Permutations II](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Multiples%20By%20Permutations%20II.ipynb) - just-juanma - 2024/02/28
 13. [Differential Averaging](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Differential%20Averaging.ipynb) - just-juanma - 2024/02/29
-14. Some Circles - just-juanma - 2024/03/01
+14. [Some Circles](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Some%20Circles.ipynb) - just-juanma - 2024/03/01
+15. Currency Conversion - just-juanma - 2024/03/02
