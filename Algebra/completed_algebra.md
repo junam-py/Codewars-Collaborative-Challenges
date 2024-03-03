@@ -15,4 +15,5 @@
 12. [Multiples By Permutations II](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Multiples%20By%20Permutations%20II.ipynb) - just-juanma - 2024/02/28
 13. [Differential Averaging](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Differential%20Averaging.ipynb) - just-juanma - 2024/02/29
 14. [Some Circles](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Some%20Circles.ipynb) - just-juanma - 2024/03/01
-15. Currency Conversion - just-juanma - 2024/03/02
+15. [Currency Conversion ](https://github.com/just-juanma/Codewars-Collaborative-Challenges/blob/main/Algebra/7%20kyu/Currency%20Conversion.ipynb)- just-juanma - 2024/03/02
+16. Converting Currency II - just-juanma - 2024/03/03
